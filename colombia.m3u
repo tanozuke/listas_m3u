@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Caracol TV
+https://playout.cdn.cartoonnetwork.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Canal RCN
+https://rcnhd2-vh.akamaihd.net/i/rcnhd2_1@122098/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Colombia",Señal Colombia
+https://playback2.akamaized.net/primary/canalinstitucional/playlist.m3u8
+

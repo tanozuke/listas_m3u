@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="Anime",Retro Anime TV
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 group-title="Anime",Anime Zone
+https://livecdn1.viewtvgroup.com/animezone/smil:animezone.smil/playlist.m3u8
+
